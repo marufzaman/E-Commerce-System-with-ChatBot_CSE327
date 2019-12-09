@@ -1,6 +1,7 @@
 # E-Commerce System with Chat-Bot.
 
-### Project Summary: This is a multi-platform (Android and Web) system to organize and operate an internet-based business.
+### Project Summary:
+This is a multi-platform (Android and Web) system to organize and operate an internet-based business.
 
 ### Admin Features: 
 - It has many admin systems so that many shops can operate their business.
